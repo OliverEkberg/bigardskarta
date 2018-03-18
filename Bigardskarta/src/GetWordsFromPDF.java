@@ -211,7 +211,7 @@ public class GetWordsFromPDF extends PDFTextStripper{
 		for(int i = 0; i < badRows.size(); i++) {
 			System.out.println(badRows.get(i));
 		}
-		//Kommentar
+		
 
 
 	}
