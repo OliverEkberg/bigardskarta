@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Bigardskarta/src"/>
+	<classpathentry kind="lib" path="Bigardskarta/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="Bigardskarta/lib/fontbox-2.0.8.jar"/>
+	<classpathentry kind="lib" path="Bigardskarta/lib/pdfbox-2.0.8.jar"/>
+	<classpathentry kind="lib" path="Bigardskarta/lib/pdfbox-debugger-2.0.8.jar"/>
+	<classpathentry kind="lib" path="Bigardskarta/lib/pdfbox-tools-2.0.8.jar"/>
+	<classpathentry kind="lib" path="Bigardskarta/lib/preflight-2.0.8.jar"/>
+	<classpathentry kind="lib" path="Bigardskarta/lib/xmpbox-2.0.8.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
