@@ -2,12 +2,12 @@
 <classpath>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="lib" path="/Users/oliverekberg/Google Drive/pdfboxNew/commons-logging-1.2.jar"/>
-	<classpathentry kind="lib" path="/Users/oliverekberg/Google Drive/pdfboxNew/fontbox-2.0.8.jar"/>
-	<classpathentry kind="lib" path="/Users/oliverekberg/Google Drive/pdfboxNew/pdfbox-2.0.8.jar"/>
-	<classpathentry kind="lib" path="/Users/oliverekberg/Google Drive/pdfboxNew/pdfbox-debugger-2.0.8.jar"/>
-	<classpathentry kind="lib" path="/Users/oliverekberg/Google Drive/pdfboxNew/pdfbox-tools-2.0.8.jar"/>
-	<classpathentry kind="lib" path="/Users/oliverekberg/Google Drive/pdfboxNew/preflight-2.0.8.jar"/>
-	<classpathentry kind="lib" path="/Users/oliverekberg/Google Drive/pdfboxNew/xmpbox-2.0.8.jar"/>
+	<classpathentry kind="lib" path="/Users/oliverekberg/git/bigardskarta/Bigardskarta/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="/Users/oliverekberg/git/bigardskarta/Bigardskarta/lib/fontbox-2.0.8.jar"/>
+	<classpathentry kind="lib" path="/Users/oliverekberg/git/bigardskarta/Bigardskarta/lib/pdfbox-2.0.8.jar"/>
+	<classpathentry kind="lib" path="/Users/oliverekberg/git/bigardskarta/Bigardskarta/lib/pdfbox-debugger-2.0.8.jar"/>
+	<classpathentry kind="lib" path="/Users/oliverekberg/git/bigardskarta/Bigardskarta/lib/pdfbox-tools-2.0.8.jar"/>
+	<classpathentry kind="lib" path="/Users/oliverekberg/git/bigardskarta/Bigardskarta/lib/preflight-2.0.8.jar"/>
+	<classpathentry kind="lib" path="/Users/oliverekberg/git/bigardskarta/Bigardskarta/lib/xmpbox-2.0.8.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
